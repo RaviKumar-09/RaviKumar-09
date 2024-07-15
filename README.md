@@ -2,16 +2,11 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">I am passionate in frontend Developer & Designer</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikumar-09&label=Profile%20views&color=0e75b6&style=flat" alt="ravikumar-09" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ravi_rickey" target="blank"><img src="https://img.shields.io/twitter/follow/ravi_rickey?logo=twitter&style=for-the-badge" alt="ravi_rickey" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development , React Native, UI/UX Design**
 
 - 👨‍💻 All of my projects are available at  <a href="https://drive.google.com/drive/folders/18NkiNg3iAIFOQ9Iqe7G1VthxYUMzm1bA?usp=drive_link">I am Here </a>
 
-- 📫 How to reach me **ravikumarainapudi97@gmail.com**
+- 📫 How to reach me  <a href="ravikumarainapudi97@gmail.com">Email</a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1VNTM8J1AUh94H0YQHMvprhQcDe_2-vJw/view?usp=drive_link"> See my Work </a>  
 
@@ -33,8 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikumar-09&show_icons=true&locale=en" alt="ravikumar-09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikumar-09&" alt="ravikumar-09" /></p>
-
-
 <!--
 **RaviKumar-09/RaviKumar-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
